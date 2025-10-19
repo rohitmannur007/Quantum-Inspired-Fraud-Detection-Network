@@ -1,0 +1,11 @@
+torch==2.4.1  # PyTorch (M2 compatible via MPS acceleration)
+torch-geometric==2.5.3  # For Graph Neural Networks
+scikit-learn==1.5.2  # For Gaussian Processes (uses sklearn.gaussian_process)
+networkx==3.3  # For graph creation
+pandas==2.2.3  # Data handling
+numpy==2.1.1
+scipy==1.14.1
+matplotlib==3.9.2  # For visualizations
+pyspark==3.5.3  # For scaling with Spark
+dimod==0.12.21 # For quantum-inspired optimization (D-Wave simulation)
+dwave-ocean-sdk==9.0.0 # Full Ocean SDK for simulated annealing

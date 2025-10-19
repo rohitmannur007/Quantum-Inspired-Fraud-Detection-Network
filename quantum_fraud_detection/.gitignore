@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+outputs/*
+fraud_detection_env/
+*.ipynb_checkpoints/
