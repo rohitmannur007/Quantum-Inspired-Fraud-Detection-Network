@@ -1,0 +1,12 @@
+
+# Ignore large or generated files
+fraud_detection_env/
+*.pkl
+*.csv
+*.jar
+*.dylib
+__pycache__/
+*.log
+*.pt
+*.pth
+
